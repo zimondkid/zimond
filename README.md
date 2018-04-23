@@ -1,2 +1,2 @@
 # zimond
-my coin
+my coin in future for application IOT
