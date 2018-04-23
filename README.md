@@ -1,0 +1,2 @@
+# zimond
+my coin
